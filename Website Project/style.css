@@ -1,0 +1,105 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    float:left;
+    line-height: 100px;
+    margin-left: 100px;
+    text-transform: uppercase;
+    color: #F1C5AE;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.logo a{
+    text-decoration: none;
+    color: #F1C5AE;
+    font-family: "Arial Black", Gadget, sans-serif;
+
+}
+.menu{
+    float:left;
+    margin-left: 420px;
+}
+
+.search{
+    float: left;
+    line-height: 100px;
+    margin-left: 400px;
+}
+
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: #92B1B6;
+}
+
+
+.menu ul li {
+list-style: none;
+display: inline-block;
+line-height: 100px;
+margin: 0px 20px;
+
+}
+
+.menu ul li a{
+text-decoration: none;
+color: white;
+margin: 10px;
+}
+
+.menu ul li a:hover{
+    color: #F1C5AE;
+    border-bottom: 1px solid #F1C5AE ;
+}
+
+.body h3{
+    font-family: "Lucida Bright", Georgia, serif;
+    font-weight: normal;
+    color: black;
+    margin-left: 33%;
+    margin-top: 150px;
+    display: block;
+}
+
+.body h2{
+    font-family: "Lucida Bright", Georgia, serif;
+    font-weight: normal;
+    display: block;
+    color: black;
+    font-size: 18px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.body a {
+    display: block;
+    margin-top: 30px;
+    margin-left: 43%;
+    text-decoration: none;
+}
+
+.contents ul li a{
+    color: black;
+}
+
+.title{
+    display: block;
+    margin: 60px 100px;
+}
+
+.contents{
+    display: block;
+    margin-left: 100px;
+}
+
+.contents li{
+    margin: 10px;
+}
+
+.solutions {
+    display: block;
+    margin-left: 100px;
+}
